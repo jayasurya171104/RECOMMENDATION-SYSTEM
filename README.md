@@ -84,3 +84,6 @@ Screenshots or output of predictions
 Report (if required by internship)
 
 ## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/d4ec0492-8650-4cb6-861f-acf84a10eb95)
+![Image](https://github.com/user-attachments/assets/207f6e91-d877-4f9c-b2d2-a48a3877a6d3)
